@@ -1,6 +1,7 @@
 # DATASET BSDS (source dataset)
 Here, we need to download the DSBS dataset. The link is:
 
+BSDS: https://drive.google.com/file/d/1wq6sTS-6gf0Tlzlhlqi_VEkBRIc7VLKn/view?usp=sharing
 
 
 

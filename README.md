@@ -15,7 +15,7 @@ In order to effectively expand the helpful information, transfer learning from t
 ### Dataset
 Here, we build a **new metallographic image data set**, which is related to materials science.
 
-<img src="./src/metal.png" width="400">
+<img src="https://github.com/CHENDL-SHEN/SemiRCF/blob/main/src/metal.png" width="800">
 https://drive.google.com/file/d/1yoanBcMOKsv2jMJ1RncqIDYmkevmCarY/view?usp=sharing
 
 The data set contains 132 metallographic images which were observed by microscope. 
@@ -35,10 +35,6 @@ We transform the original NYUD & BSDS dataset by introducing additional objects.
 This object here refers to the silicon particles extracted from the metallographic image. 
 For the boundary detection task, silicon particles are considered as noise. 
 The reason we do this is to make the model free from the interference of silicon particles, find the real boundary, and have better robustness.
-
-An example is shown below:
-
-<img src="./src/nyud.png" width="400">
 
 ### Train and Evaluation
 1. Clone this repository to local
