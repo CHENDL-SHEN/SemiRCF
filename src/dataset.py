@@ -216,6 +216,10 @@ class Dataset(torch.utils.data.Dataset):
             edge = edge[:,:,0]
         edge = self.resize(edge, imgh, imgw)
 
+        edge[edge == 0] = 0
+        edge[np.logical_and(edge > 0, edge < 150)] =  100
+        edge[edge >= 150] = 255
+
         return edge
 
     def load_ex_edge(self, img, index):
