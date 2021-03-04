@@ -1,11 +1,11 @@
-# DATASET metal (target dataset)
+# Dataset NYUD (target dataset)
 Here, we need to download the NYUD dataset. The link is:
 
 NYUD: https://drive.google.com/file/d/1pxjBCIncBOuSFl47Q2oOc_n6f9SrTW0W/view?usp=sharing
 
 We do a similar transformation by introducing silicon particles, just like the DSBs dataset. An example is shown below:
 
-<img src="http://r.photo.store.qq.com/psc?/V54DdT9p3fNQCy19n91J3rOsW42ZXwXU/TmEUgtj9EK6.7V8ajmQrEAgxQj1xS2S7Elu*FGkowW3wPgWnw75z0*llMPkxFG3Bl8tUFT803iVpekIntSxXb4.3gMzfV5MXJ5Y1GOQlHxE!/r&save=1&d=1.png" width="400">
+<img src="https://thumbnail0.baidupcs.com/thumbnail/86a1bd927u842e941fe9aee8f22fc1f5?fid=711164114-250528-183331739298141&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-cjHNgStrHy2A1hMXBZSNMh87Si8%3d&expires=8h&chkbd=0&chkv=0&dp-logid=1462873612331461073&dp-callid=0&time=1614877200&size=c10000_u10000&quality=90&vuk=711164114&ft=image" width="400">
 
 We have only seven labeled data (<1% of total). The others (788) are unlabeled . The figure below is all of our labeled data.
 
