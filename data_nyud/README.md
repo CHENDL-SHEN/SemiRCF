@@ -9,4 +9,4 @@ We do a similar transformation by introducing silicon particles, just like the D
 
 We have only seven labeled data (<1% of total). The others (788) are unlabeled . The figure below is all of our labeled data.
 
-<img src="http://r.photo.store.qq.com/psc?/V54DdT9p3fNQCy19n91J3rOsW42ZXwXU/TmEUgtj9EK6.7V8ajmQrEFih1SDnxfCuTI.9iIQD3Q6KI1Ltcm33nj3LChO93kt3.PS0omnL1ZvecZQtryMC3DhLqkWlHElLa6kI4U*UdXk!/r&save=1&d=1.png" width="800">
+<img src="https://thumbnail0.baidupcs.com/thumbnail/a652a5dcdn99e1b6d7a58b34f81d2f06?fid=711164114-250528-789904591307366&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-RE%2bhpyV0zm69jjTMboxvZ0EbFsQ%3d&expires=8h&chkbd=0&chkv=0&dp-logid=1462873612331461073&dp-callid=0&time=1614877200&size=c10000_u10000&quality=90&vuk=711164114&ft=image" width="800">
