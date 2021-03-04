@@ -15,7 +15,7 @@ In order to effectively expand the helpful information, transfer learning from t
 ### Dataset
 Here, we build a **new metallographic image data set**, which is related to materials science.
 
-<img src="https://github.com/CHENDL-SHEN/SemiRCF/blob/main/src/metal.png" width="800">
+<img src="https://github.com/CHENDL-SHEN/SemiRCF/blob/main/src/metal.jpg" width="800">
 
 https://drive.google.com/file/d/1yoanBcMOKsv2jMJ1RncqIDYmkevmCarY/view?usp=sharing
 
