@@ -35,7 +35,7 @@ a_mode = 1 #1:train; 2:test
 
 # learning strategy
 a_lr = 1e-7
-a_lr_mode = 'ADAM' # SGD SGD_normal
+a_lr_mode = 'SGD' # SGD SGD_normal
 a_lr_momentum = 0.9
 a_lr_weight_decay = 2e-4
 a_BATCH_SIZE_MERGE = 30
@@ -155,10 +155,10 @@ def load_config():
         a_epoch_tune = 25  # termination epoch for pseudo label
         a_epoch_could_tune = 12  # tune epoch for neg
         a_epoch_could_pos_tune = 15  # tune epoch for pos
-        a_conne_dis = int(a_conne_dis * 1.5)  # threshold for connection
-        a_region_min = int(a_region_min * 1.5)  # threshold for region merge
-        a_edge_dele_num = int(a_edge_dele_num * 1.5)  # threshold for deletion
-        a_hard_distance = int(a_hard_distance * 1.5)  # threshold for hard connection
+        a_conne_dis = 15 # threshold for connection
+        a_region_min = 75  # threshold for region merge
+        a_edge_dele_num = 15  # threshold for deletion
+        a_hard_distance = 9  # threshold for hard connection
 
 
 
