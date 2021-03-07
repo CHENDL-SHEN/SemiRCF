@@ -5,7 +5,7 @@ First, we need to download the metallographic dataset. The link is:
 
 https://drive.google.com/file/d/1yoanBcMOKsv2jMJ1RncqIDYmkevmCarY/view?usp=sharing
 
-The data set contains 132 metallographic images which were observed by microscope. 
+The data set contains 144 metallographic images which were observed by microscope. 
 The research objects are semi-continuous casting al-12.7si-0.7mg alloy, 
 and the ingot experiment was carried out in Xinjiang Zhonghe Co., Ltd. 
 Here, our goal is to find grain boundaries, some of which may be covered by silicon particles.
