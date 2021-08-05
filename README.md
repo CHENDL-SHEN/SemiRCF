@@ -6,7 +6,7 @@ Created by Mingchun Li & Dali Chen
 We developed a new a semi-supervised learning strategy for grain boundary detection with few labeled images and a large number of unlabeled samples. 
 In order to effectively expand the helpful information, transfer learning from the related domain with large dataset and the rule-based region growing are considered in this paper.
 
-#####We have expanded it to unsupervised learning based on MMD and GAN.
+####We have expanded it to unsupervised learning based on MMD and GAN.
 ### Prerequisites
 
 - pytorch >= 1.6.0(Our code is based on the 1.6.0)
@@ -49,7 +49,7 @@ Extrcted code: semi
 
 3. Download relative dataset to the local folder
 
-4. Run the training code main.py (source data: BSDS, target data: Metal).or main_nyud.py (source data: BSDS, target data: NYUD).
+4. Run the training code train_metal_semircf_gan/mmd.py (source data: BSDS, target data: Metal).or train_nyud_semircf_gan/mmd.py (source data: BSDS, target data: NYUD).
 
 5. The metric code is in metric folder  
 
