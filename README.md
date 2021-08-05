@@ -1,4 +1,4 @@
-# SemiRCF
+# SemiRCF-GAN/MMD
 Created by Mingchun Li & Dali Chen
 
 ### Introduction:
