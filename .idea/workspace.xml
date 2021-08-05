@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b42e64ff-441e-4142-9f40-fbcfabde11c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data_bsds/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/data_bsds/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_metal/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/data_metal/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_nyud/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/data_nyud/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="b42e64ff-441e-4142-9f40-fbcfabde11c1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +56,18 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_bsds/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="270">
+                <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edge_connect.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,21 +90,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data_bsds/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -111,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="747" />
     <option name="y" value="169" />
     <option name="width" value="1678" />
@@ -191,7 +188,7 @@
       <updated>1614876809073</updated>
       <workItem from="1614876810190" duration="4025000" />
       <workItem from="1615101283484" duration="244000" />
-      <workItem from="1628198915132" duration="848000" />
+      <workItem from="1628198915132" duration="1213000" />
     </task>
     <task id="LOCAL-00001" summary="lmc">
       <created>1614876889201</created>
@@ -319,15 +316,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628199641641</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="lmc">
+      <created>1628199771055</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1628199771055</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5117000" />
+    <option name="totallyTimeSpent" value="5482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49941927" visible="true" weight="0.21581876" />
       <window_info id="Structure" order="1" sideWeight="0.5005807" side_tool="true" weight="0.2337043" />
@@ -452,8 +455,8 @@
     <entry file="file://$PROJECT_DIR$/data_bsds/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <first_editor relative-caret-position="270">
+            <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
           </first_editor>
           <second_editor />
         </state>
