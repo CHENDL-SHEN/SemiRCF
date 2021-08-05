@@ -1,9 +1,8 @@
 # Dataset BSDS (source dataset)
 Here, we need to download the DSBS dataset. The link is:
 
-BSDS: https://drive.google.com/file/d/1wq6sTS-6gf0Tlzlhlqi_VEkBRIc7VLKn/view?usp=sharing
-
-
+BSDS: https://pan.baidu.com/s/1AZfJMa54R1rxF5PyecZjlQ 
+Extrcted code: semi 
 
 We transform the original BSDS data by introducing additional objects. 
 This object here refers to the silicon particles extracted from the metallographic image. 
