@@ -1,6 +1,10 @@
 # SemiRCF-GAN/MMD
 Created by Mingchun Li & Dali Chen
 
+### Updated in 2026, reset the expired links
+### We invite you to explore MicroAl-Dataset, our newly released benchmark containing 1,000+ aluminum alloy microstructure images across diverse categories and annotation types — including data from this repository.
+👉 https://github.com/neulmc/MicroAl-Dataset
+
 ### Introduction:
 
 We developed a new a semi-supervised learning strategy for grain boundary detection with few labeled images and a large number of unlabeled samples. 
@@ -18,7 +22,7 @@ Here, we build a **new metallographic image data set**, which is related to mate
 
 <img src="https://s3.ax1x.com/2021/03/07/6uxW6K.png" width="800">
 
-https://pan.baidu.com/s/15u9d_4JdY7oemEVPcsHMvQ 
+https://pan.baidu.com/s/1-ER53edAKa2QPSaKBuyPVw
 Extrcted code: semi 
 
 The data set contains 144 metallographic images which were observed by microscope. 
@@ -30,10 +34,10 @@ All samples are carefully labeled by material experts at pixel level.
 
 On the other hand, the transformed public dataset can also be downloaded:
 
-NYUD: https://pan.baidu.com/s/15EfAXt6Wr4L3j9NBE0f9gA 
+NYUD: https://pan.baidu.com/s/1haDyTdlgP-oX-rqTI80uAA
 Extrcted code: semi 
 
-BSDS: https://pan.baidu.com/s/1AZfJMa54R1rxF5PyecZjlQ 
+BSDS: https://pan.baidu.com/s/1Pbl5JVceX3US5PLwfZKeMA
 Extrcted code: semi 
 
 We transform the original NYUD & BSDS dataset by introducing additional objects. 
@@ -44,17 +48,14 @@ The reason we do this is to make the model free from the interference of silicon
 ### Train and Evaluation
 1. Clone this repository to local
 
-2. Download the pretrained model https://pan.baidu.com/s/13EKg097KmdYyb8Qb7uY2Xw 
-Extrcted code: semi 
+2. Download relative dataset to the local folder
 
-3. Download relative dataset to the local folder
+3. Run the training code train_metal_semircf_gan/mmd.py (source data: BSDS, target data: Metal). or train_nyud_semircf_gan/mmd.py (source data: BSDS, target data: NYUD).
 
-4. Run the training code train_metal_semircf_gan/mmd.py (source data: BSDS, target data: Metal). or train_nyud_semircf_gan/mmd.py (source data: BSDS, target data: NYUD).
-
-5. The metric code is in metric folder  
+4. The metric code is in metric folder  
 
 ### Final models
 This is the final model in our paper. We used this model to evaluate. You can download by: 
 
-https://pan.baidu.com/s/1zEHoV7tkQnoTD2MLCbLShQ 
+https://pan.baidu.com/s/17iu4lH6iTtvo8s6nLAEgtw
 Extrcted code: semi 
