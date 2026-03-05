@@ -2,7 +2,7 @@
 Created by Mingchun Li & Dali Chen
 
 ### Updated in 2026, reset the expired links
-### We invite you to explore MicroAl-Dataset, our newly released benchmark containing 1,000+ aluminum alloy microstructure images across diverse categories and annotation types — including data from this repository.
+### We invite you to explore MicroAl-Dataset, our newly released benchmark/dataset containing 1,000+ aluminum alloy microstructure images across diverse categories and annotation types — including data from this repository.
 👉 https://github.com/neulmc/MicroAl-Dataset
 
 ### Introduction:
