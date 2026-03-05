@@ -1,7 +1,9 @@
 # Dataset NYUD (target dataset)
 Here, we need to download the NYUD dataset. The link is:
 
-NYUD: https://pan.baidu.com/s/15EfAXt6Wr4L3j9NBE0f9gA 
+### Updated in 2026, reset the expired links
+
+NYUD: https://pan.baidu.com/s/1haDyTdlgP-oX-rqTI80uAA
 Extrcted code: semi 
 
 We do a similar transformation by introducing silicon particles, just like the DSBS dataset. An example is shown below:

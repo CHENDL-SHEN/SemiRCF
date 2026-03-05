@@ -1,7 +1,9 @@
 # Dataset BSDS (source dataset)
 Here, we need to download the DSBS dataset. The link is:
 
-BSDS: https://pan.baidu.com/s/1AZfJMa54R1rxF5PyecZjlQ 
+### Updated in 2026, reset the expired links
+
+BSDS: https://pan.baidu.com/s/1Pbl5JVceX3US5PLwfZKeMA 
 Extrcted code: semi 
 
 We transform the original BSDS data by introducing additional objects. 

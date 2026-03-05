@@ -8,6 +8,7 @@ from os.path import join, split, isdir, isfile, splitext, split, abspath, dirnam
 import sys
 from shutil import copyfile
 
+# Updated in 2026, reset the expired links
 
 a_path = 'semircf_gan'  # work dir
 a_load_model_dir = 'pretarined_model/(pre_train_metal&bsds)EdgeModel_gen.pth'  # file to resume
